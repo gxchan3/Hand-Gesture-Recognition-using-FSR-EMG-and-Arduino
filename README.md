@@ -4,6 +4,7 @@ Using FSR and EMG sensors to recognize hand gesture using GRT machine learning
 This repository includes the Arduino sketch for acquiring 10 FSRs and 2 EMG sensors data. Also the Processing sketch and the usage of GRT GUI created by Nick Gillian are included. The GUI version for GRT (Gesture Recognition Toolkit) is created by Nick Gillian. The information about the program can be referred to http://www.nickgillian.com/wiki/pmwiki.php/GRT/GUI. Both the Windows and Mac versions of the program can be downloaded from that website as well.
 
 ## Circuit Design
+![experimental setup](https://cloud.githubusercontent.com/assets/26737862/24670433/9145af72-19a0-11e7-8cf6-52004ae5951d.png)
 
 ## Instructions
 ### Preparation
