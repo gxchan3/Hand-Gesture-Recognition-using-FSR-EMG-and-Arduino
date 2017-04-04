@@ -23,5 +23,6 @@ This repository includes the Arduino sketch for acquiring 10 FSRs and 2 EMG sens
 
 ## Additional Processing Sketches
 1. Matching the gesture recognized into gesture image
+Folder "Hand-Gesture-Recognition-using-FSR-EMG-and-Arduino/IMU_Gesture_Recognition/Gesture Recognition_Image Match"
 
 2. Controlling the videoplayback using gesture recognition
